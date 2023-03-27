@@ -1,14 +1,3 @@
-# ColorSwtichClone
-A JavaFX Project involving Object Oriented Programming concepts
-
-USE CASE DIAGRAM
-![Use Case Digram](https://github.com/Priyansh19077/ColorSwtichClone/blob/master/Use%20Case%20Diagram.png)
-
-
-CLASS DIAGRAM
-![Use Case Digram](https://github.com/Priyansh19077/ColorSwtichClone/blob/master/Class%20Diagram.png)
-
-
 # Colour Switch
 
 
@@ -54,3 +43,13 @@ Additionally, serialization has been implemented to store the progress during a 
 ![image](https://user-images.githubusercontent.com/41303186/227885145-7fe6206e-8294-4869-9c4c-1c13faa63a9c.png)
 ![image](https://user-images.githubusercontent.com/41303186/227885187-7c9a53d0-fe11-4fb8-ad96-a463db9b9236.png)
 ![image](https://user-images.githubusercontent.com/41303186/227885251-4a7011ad-8176-4b6c-9bce-08bbab382c08.png)
+
+# ColorSwtichClone
+A JavaFX Project involving Object Oriented Programming concepts
+
+USE CASE DIAGRAM
+![Use Case Digram](![image](https://user-images.githubusercontent.com/41303186/227885725-843a322d-9378-4eb6-a247-5313b6bf4ada.png))
+
+
+CLASS DIAGRAM
+![Use Case Digram](![image](https://user-images.githubusercontent.com/41303186/227885784-9373c9be-bb49-49a4-ad5d-f4a80a304815.png))
