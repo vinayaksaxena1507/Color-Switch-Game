@@ -44,8 +44,8 @@ Additionally, serialization has been implemented to store the progress during a 
 ![image](https://user-images.githubusercontent.com/41303186/227885187-7c9a53d0-fe11-4fb8-ad96-a463db9b9236.png)
 ![image](https://user-images.githubusercontent.com/41303186/227885251-4a7011ad-8176-4b6c-9bce-08bbab382c08.png)
 
-# ColorSwtichClone
-A JavaFX Project involving Object Oriented Programming concepts
+
+Project involving Object Oriented Programming concepts
 
 USE CASE DIAGRAM
 
