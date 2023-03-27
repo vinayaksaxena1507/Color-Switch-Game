@@ -4,7 +4,7 @@
 ## Details:
 This is a clone of the strategy game :video_game: , Colour Switch originally developed by Pheonix Games
 
-Made as a part of project in Advanced Programming course at IIIT-Delhi.
+Made as a part of project in Advanced Programming course at Lovely Professional University.
 
 Uses Java and JavaFx.
 
