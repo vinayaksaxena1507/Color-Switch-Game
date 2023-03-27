@@ -48,10 +48,10 @@ Additionally, serialization has been implemented to store the progress during a 
 A JavaFX Project involving Object Oriented Programming concepts
 
 USE CASE DIAGRAM
-![Use Case Digram]
+
 ![image](https://user-images.githubusercontent.com/41303186/227885725-843a322d-9378-4eb6-a247-5313b6bf4ada.png)
 
 
 CLASS DIAGRAM
-![Use Case Digram]
+
 ![image](https://user-images.githubusercontent.com/41303186/227885784-9373c9be-bb49-49a4-ad5d-f4a80a304815.png)
