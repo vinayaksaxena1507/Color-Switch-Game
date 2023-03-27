@@ -50,7 +50,7 @@ Additionally, serialization has been implemented to store the progress during a 
 3. Run the entire project in a Java Environment and you are good to go!
 
 ## Screenshots from the Game:
-<img src="Screenshots/finalstart.png" width="400" height="500" style="margin-right: 5px;"/>   
-<img src="Screenshots/final shop.png" width="400" height="500" />
-<img src="Screenshots/finalgameplay.png" width="400" height="500" />   
-<img src="Screenshots/finalend.png" width="400" height="500" />
+![image](https://user-images.githubusercontent.com/41303186/227885029-020d8ea1-3ea9-4ee2-a34a-a86a3ce4518b.png)   
+![image](https://user-images.githubusercontent.com/41303186/227885145-7fe6206e-8294-4869-9c4c-1c13faa63a9c.png)
+![image](https://user-images.githubusercontent.com/41303186/227885187-7c9a53d0-fe11-4fb8-ad96-a463db9b9236.png)
+![image](https://user-images.githubusercontent.com/41303186/227885251-4a7011ad-8176-4b6c-9bce-08bbab382c08.png)
